@@ -145,6 +145,14 @@ Ispravko is part of a longer-term vision of building practical technical tools t
 
 The aim is to create software that is not only technically interesting, but also genuinely helpful in real development and technical environments.
 
+## Roadmap
+
+- improve project documentation
+- add clearer usage examples
+- refine workflow presentation
+- improve report structure and readability
+- expand public project presentation
+
 ---
 
 ## Author
