@@ -85,7 +85,7 @@ The project is currently being refined as part of a broader portfolio focused on
 - clearer usage examples
 - stronger project presentation
 - expanded workflow support
-- better visual/project-level polish
+- better visual and project-level polish
 
 ---
 
@@ -93,7 +93,7 @@ The project is currently being refined as part of a broader portfolio focused on
 
 - **py-code-analyzer-lite** – lightweight CLI analyzer
 - **portfolio website** – project presentation and public profile
-- **automation/scraping workflows** – practical technical projects
+- **automation and scraping workflows** – practical technical projects
 
 ---
 
